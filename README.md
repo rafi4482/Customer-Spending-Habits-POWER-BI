@@ -4,7 +4,7 @@
 
 The project is designed to analyze customer spending habits and improve sales. The project uses data from the "Analyzing Customer Spending Habits" dataset available on Kaggle. The interactive dashboards are created using Power BI, a powerful business intelligence tool.
 
-![Dashboard Example](/images/dashboard_example.png)
+[![Alt text]([https://url-to-your-image/image.png](https://ibb.co/Btxkwsc))](https://your-link.com)
 
 ## Project Highlights
 
